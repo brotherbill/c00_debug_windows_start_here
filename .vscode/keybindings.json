@@ -1,0 +1,12 @@
+[
+  {
+    "key": "ctrl+alt+d",
+    "command": "workbench.debug.action.toggleRepl",
+    "when": "inDebugMode"
+  },
+  {
+    "key": "ctrl+alt+shift+b",
+    "command": "workbench.action.tasks.runTask",
+    "args": "backup: success snapshot"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "c00_debug_windows_start_here",
+  "description": "Starter project for debugging in VS Code",
+  "license": "proprietary",
+  "authors": [
+    "dlang.school"
+  ],
+  "targetType": "executable",
+  "sourcePaths": [
+    "source"
+  ]
+}
